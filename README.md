@@ -7,9 +7,15 @@
 **Save The Princess** is a 2D action platformer built in Unity. Battle enemies, overcome obstacles, and rescue the princess! The game features smooth movement, responsive controls, and dynamic enemy respawning for a challenging experience.
 
 ---
+
 ## 📷 Screenshots
 
+| ![Game Start Screenshot](./Images/GameStart.png) | ![Gameplay Screenshot](./Images/GamePlay.png) |
+|---|---|
+| ![Player Attack Screenshot](./Images/GameAttack.png) | ![Game Over Screenshot](./Images/GameOver.png) |
 
+
+---
 
 ## 🚀 Features
 
@@ -79,7 +85,7 @@ ProjectSettings/      # Unity project settings
    ```
 2. **Open in Unity**
    - Use Unity Hub to open the project folder.
-   - Recommended Unity version: *2022.3 LTS* or later.
+   - Recommended Unity version: _2022.3 LTS_ or later.
 3. **Play the Game**
    - Open `SampleScene.unity` in the `Scenes` folder.
    - Click Play!
@@ -97,4 +103,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ### Special thanks to [AlexDev YouTube Channel](https://www.youtube.com/@unityalexdev) for inspiration and tutorials.
 
 ---
-
