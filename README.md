@@ -1,6 +1,6 @@
 # Save The Princess
 
-[▶️ Play Save The Princess on Unity Play](https://play.unity.com/en/games/5fa3b2bc-5640-49e7-9324-08991b441d96/index)
+[🎮 Play Save The Princess on Unity Play](https://play.unity.com/en/games/5fa3b2bc-5640-49e7-9324-08991b441d96/index)
 
 ## 🎮 Overview
 
